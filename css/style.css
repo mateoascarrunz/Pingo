@@ -90,5 +90,9 @@ img{
 
 
 @media (max-width: 755px){
+    .hero{
+        position: relative;
+        margin-top: 100px;
     
+    }
 }
